@@ -12,6 +12,6 @@ foo@bar:~$ git clone https://github.com/Eshaan7/Telegram-automatic-message
 ```
 Execute using
 ```console
-foo@bar:~$ cd Telegram-automatic-message
+foo@bar:~$ cd Telegram-automatic-message/
 foo@bar:~/Telegram-automatic-message$ python3 telmsgtobot.py
 ```
